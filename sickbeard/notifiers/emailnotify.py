@@ -2,7 +2,7 @@
 # Derek Battams <derek@battams.ca>
 # Pedro Jose Pereira Vieito (@pvieito) <pvieito@gmail.com>
 #
-# URL: https://github.com/mr-orange/Sick-Beard
+# URL: https://github.com/pvieito/SickBeard
 #
 # This file is part of Sick Beard.
 #

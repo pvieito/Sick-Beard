@@ -1,5 +1,5 @@
 # Author: Mr_Orange
-# URL: https://github.com/mr-orange/Sick-Beard
+# URL: https://github.com/pvieito/SickBeard
 #
 # This file is part of Sick Beard.
 #
